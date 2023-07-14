@@ -1,0 +1,13 @@
+Используйте следующую команду для создания нового начального проекта:
+    npx nuxi@latest init <project-name>
+
+Установка зависимости:
+    npm install
+
+
+Сервер разработки
+Теперь возможно запустить свое приложение Nuxt в режиме разработки:
+    npm run dev
+
+Установка tailwindcss чтото вроду bootstrap
+    npm install --save-dev @nuxtjs/tailwindcss
